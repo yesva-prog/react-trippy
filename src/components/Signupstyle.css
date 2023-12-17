@@ -1,0 +1,18 @@
+.container{
+    margin:10rem 8rem;
+    width:50%;
+    background-color: darkcyan;
+    padding:10px;
+    display: block;
+    align-items: center;
+}
+button{
+    display:none;
+    margin-top: 20px;
+}
+input{
+    width:100%;
+}
+.fluid {
+    display: block;
+}
